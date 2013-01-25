@@ -1,3 +1,3 @@
 studygit
 ========
-coming
+coming soon
